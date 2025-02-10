@@ -11,3 +11,6 @@ This system is designed for controlling the atmosphere on a 90mm petri-dish plat
 ![image](https://github.com/user-attachments/assets/ba2ecaa3-2df2-4c7d-aa13-eeec950f58f0)
 
 ``There are 5 air holes for gas exchange which could be used as further extension. 90mm petri-dish was clamped in the position between the upper and lower structure in the figure.``
+
+# Design request
+For users requesting the mechanical design, please contact WANG, Yuhao
