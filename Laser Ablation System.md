@@ -9,6 +9,7 @@
 ## Protocol
 
 ### I. Preparation
+
 1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
    - a. Move the sample to a blank region for avoiding photodamage on regions of interest.
    - b. $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
@@ -39,3 +40,40 @@
 ![PXL_20210116_093911491](https://github.com/user-attachments/assets/9eb7ad67-dc27-4471-a4fa-c21349ffaf8e)
 
 9. Write 'c0' (close to 0% power) to the serial port, the laser power is then turned off.
+
+### II. Test and ablate
+
+$$\textrm{\color{red}It is highly recommended to Wear a laser protective glass in the following steps.}$$
+
+![PXL_20210116_102354482](https://github.com/user-attachments/assets/ac2e5df5-7985-49fb-bc2a-621be176701e)
+
+1. Move the sample to a testing region.
+2. Set ablation parameters and test:
+   * a. Open the 'laser ablation point' macro
+   * b. Set the \textrm{\color{red}power}$$ in 'WritePort(9,"o\textrm{\color{red}50}$$",13,0);', 50% power by default;
+   * c. Set the ablation \textrm{\color{red}time (s)}$$ in 'Wait(\textrm{\color{red}2}$$);', 1 s ablation by default;
+   * d. Execute and examine the ablation effect. Change parameters if necessary.3
+
+![Untitled](https://github.com/user-attachments/assets/59785dd8-f2ff-42b9-a869-5ca80454be7b)
+
+3. Set ablation points and ablate:
+   * a. Set the coordinates of ablation points in 'ND Acquisition';
+   * b. Tick the 'Execute Command' and choose the macro 'laser ablation point';
+   * c. Execute by 'Run Now'.
+
+![Untitled2](https://github.com/user-attachments/assets/8335de8d-4601-4f0e-b91a-91a6da668801)
+
+4. Examine the ablation results, close the serial port, and close NIS elements.
+5. Unplug the socket of the power supply and the USB of the arduino chip.
+
+## Specs
+
+Laser maximum power: 2000 mW
+
+Laser power control: PMW
+
+Laser wavelength: 444±5 nm
+
+Laser spectrum:
+
+![image](https://github.com/user-attachments/assets/d86ed525-45ed-4732-a809-a3385f373018)
