@@ -10,7 +10,7 @@
 ## Protocol
 
 ### I. Preparation
-1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
+- 1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
   * a. Move the sample to a blank region for avoiding photodamage on regions of interest.
   * b. $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
 2. Insert the CFP filterset ($$\textrm{\color{red}with the excitation filter removed}$$) into the lower filter turret on the microscope.
