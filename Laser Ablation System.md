@@ -17,10 +17,10 @@
 
 ### I. Preparation
 1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
- - Move the sample to a blank region for avoiding photodamage on regions of interest.
- - $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
+    - Move the sample to a blank region for avoiding photodamage on regions of interest.
+    - $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
 2. Insert the CFP filterset ($$\textrm{\color{red}with the excitation filter removed}$$) into the lower filter turret on the microscope.
- - $$\textrm{\color{red}Alarm: make sure the emission filter is in position!}$$
+    - $$\textrm{\color{red}Alarm: make sure the emission filter is in position!}$$
 
 ![Picture2](https://github.com/user-attachments/assets/2a06cfac-42ba-4ed0-ba48-14d3c8f89dc9)
 
