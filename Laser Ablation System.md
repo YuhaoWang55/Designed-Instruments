@@ -77,3 +77,6 @@ Laser wavelength: 444±5 nm
 Laser spectrum:
 
 ![image](https://github.com/user-attachments/assets/d86ed525-45ed-4732-a809-a3385f373018)
+
+## Design request
+For users requesting the mechanical design, please contact WANG, Yuhao
