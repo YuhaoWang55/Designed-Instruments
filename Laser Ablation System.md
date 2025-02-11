@@ -66,6 +66,9 @@ $$\textrm{\color{red}It is highly recommended to Wear a laser protective glass i
 4. Examine the ablation results, close the serial port, and close NIS elements.
 5. Unplug the socket of the power supply and the USB of the arduino chip.
 
+## Codes, Optic path, and Electronics
+> Waiting to be uploaded
+
 ## Specs
 
 Laser maximum power: 2000 mW
