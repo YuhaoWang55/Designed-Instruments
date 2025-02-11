@@ -9,7 +9,7 @@
 
 ## Protocol
 
-- I. Preparation
-  - 1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
-    * Move the sample to a blank region for avoiding photodamage on regions of interest.
-    * $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
+### I. Preparation
+- 1. Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
+  * 1. Move the sample to a blank region for avoiding photodamage on regions of interest.
+  * 2. $$\textrm{\color{red}Alarm: make sure the laser power is turned off when switching to a camera port!}$$
