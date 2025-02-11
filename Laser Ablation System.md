@@ -10,4 +10,4 @@
 ## Protocol
 
 - Preparation
- - pen the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
+  - Open the Ti microscope, select the eyepiece port. Choose a proper objective (NA>0.9 is recommended) and put the a sample on.
